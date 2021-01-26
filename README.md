@@ -19,6 +19,8 @@ server.py contains contributions from:
 * Jackson Z Chang
 * Mandy Meindersma 
 * Tri Nguyen 
+* https://stackoverflow.com/questions/13939120/sanitizing-a-file-path-in-python
+* https://stackoverflow.com/questions/3430372/how-do-i-get-the-full-path-of-the-current-files-directory
 
 But the server.py example is derived from the python documentation
 examples thus some of the code is Copyright © 2001-2013 Python
